@@ -1,6 +1,4 @@
 
-# this is c5xb
+# this is g1xa
 
-## docker 
-
-This document describes the use of Docker within the c5xb project. 
+## docker
